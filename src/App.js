@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 let defaultStyle={
   color : '#131313'
-
 };
 
 class Aggregate extends Component{
